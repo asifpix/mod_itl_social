@@ -9,9 +9,6 @@ defined('_JEXEC') or die; ?>
         <?php if ($twitter != null) : ?>
         <li><a href="<?php echo $twitter ?>" target="_blank"><i class="fab fa-twitter"></i></a></li>
         <?php endif ?>
-    	<?php if ($gplus != null) : ?>
-        <li><a href="<?php echo $gplus; ?>" target="_blank"><i class="fab fa-google-plus-g"></i></a></li>
-    	<?php endif ?>
     	<?php if ($youtube != null) : ?>
         <li><a href="<?php echo $youtube; ?>" target="_blank"><i class="fab fa-youtube"></i></a></li>
     	<?php endif ?>

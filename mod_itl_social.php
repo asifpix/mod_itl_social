@@ -14,7 +14,6 @@ defined('_JEXEC') or die;
 //Get data from module paramater
 $facebook 		= $params->get('facebook_url');
 $twitter 		= $params->get('twitter_url');
-$gplus 			= $params->get('gplus_url');
 $youtube 		= $params->get('youtube_url');
 $pinterest 		= $params->get('pinterest_url');
 $dribbble 		= $params->get('dribbble_url');
