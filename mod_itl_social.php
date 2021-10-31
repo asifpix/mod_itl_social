@@ -23,6 +23,5 @@ $instagram 		= $params->get('instagram_url');
 $flickr 		= $params->get('flickr_url');
 $git 	 		= $params->get('git_url');
 $linkedin 		= $params->get('linkedin_url');
-$rss 			= $params->get('rss_url');
 
 require JModuleHelper::getLayoutPath('mod_itl_social', $params->get('layout'));
