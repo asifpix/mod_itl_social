@@ -19,7 +19,7 @@ $pinterest 		= $params->get('pinterest_url');
 $dribbble 		= $params->get('dribbble_url');
 $behance 		= $params->get('behance_url');
 $instagram 		= $params->get('instagram_url');
-$flickr 		= $params->get('flickr_url');
+$tiktok 		= $params->get('tiktok_url');
 $git 	 		= $params->get('git_url');
 $linkedin 		= $params->get('linkedin_url');
 

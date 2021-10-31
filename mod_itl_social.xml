@@ -21,16 +21,14 @@
             <fieldset name="basic">
 				<field name="facebook_url" type="text" label="Facebook" description="Use your facebook profile link." />
 				<field name="twitter_url" type="text" label="Twitter" description="Use your twitter profile link." />
-				<field name="gplus_url" type="text" label="Google Plus" description="Use your google plus profile link." />
                 <field name="youtube_url" type="text" label="Youtube" description="Use your youtube profile link." />
                 <field name="pinterest_url" type="text" label="Pinterest" description="Use your pinterest profile link." />
                 <field name="dribbble_url" type="text" label="Dribbble" description="Use your dribbble profile link." />
                 <field name="behance_url" type="text" label="Behance" description="Use your behance profile link." />
                 <field name="instagram_url" type="text" label="Instagram" description="Use your instagram profile link." />
-                <field name="flickr_url" type="text" label="Flickr" description="Use your flickr profile link." />
+                <field name="tiktok_url" type="text" label="Tiktok" description="Use your tiktok profile link." />
                 <field name="git_url" type="text" label="Git" description="Use your git profile link." />
                 <field name="linkedin_url" type="text" label="Linkedin" description="Use your linkedin profile link." />
-                <field name="rss_url" type="text" label="RSS Feed" description="Use your rss feed link." />
             </fieldset>
 
             <fieldset name="advanced">
